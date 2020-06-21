@@ -14,7 +14,7 @@ For a {productname} Registry installation (appropriate for non-production purpos
 * **CPUs**: Two or more virtual CPUs
 * **RAM**: 4GB or more
 * **Disk space**:  (dependant on storage needs for registry)
-    - About 30GB of disk space should be enough for a test system (broken down in the following manner):
-        * At least 10GB of disk space for the operating system (Red Hat Enterprise Linux Server).
-        * At least 10GB of disk space for docker storage (to run 3 containers)
-        * At least 10GB of disk space for Quay local storage (CEPH or other local storage might require more memory)
+    ** About 30GB of disk space should be enough for a test system (broken down in the following manner):
+        *** At least 10GB of disk space for the operating system (Red Hat Enterprise Linux Server).
+        *** At least 10GB of disk space for docker storage (to run 3 containers)
+        *** At least 10GB of disk space for Quay local storage (CEPH or other local storage might require more memory)
